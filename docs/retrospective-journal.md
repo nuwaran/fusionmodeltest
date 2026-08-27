@@ -80,3 +80,11 @@ Recorded: `2026-09-13T12:18:14+05:30`. This is retrospective documentation, not 
 - Catalog reference: `README.md` — [open the existing snapshot file](https://github.com/nuwaran/fusionmodeltest/blob/bc868f919f9b2dea4ba8acbd835c3eb216baee47/README.md).
 - Git object: `423cc28f4a1475f18c6fc56175ebec158f4fb625`; mode `100644`; type `blob`.
 - Purpose: make the existing project evidence traceable to a specific, immutable snapshot. File contents, credentials, and private data are not copied into this journal.
+
+### J0009 — calendar label 2026-08-27
+
+Recorded: `2026-09-13T12:18:14+05:30`. This is retrospective documentation, not a claim of work on `2026-08-27`.
+
+- Catalog reference: `README.md` — [open the existing snapshot file](https://github.com/nuwaran/fusionmodeltest/blob/bc868f919f9b2dea4ba8acbd835c3eb216baee47/README.md).
+- Git object: `423cc28f4a1475f18c6fc56175ebec158f4fb625`; mode `100644`; type `blob`.
+- Purpose: make the existing project evidence traceable to a specific, immutable snapshot. File contents, credentials, and private data are not copied into this journal.
